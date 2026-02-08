@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[&#34;个人建站&#34;, &#34;网站建设&#34;] on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99-%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/</link>
+    <description>Recent content in [&#34;个人建站&#34;, &#34;网站建设&#34;] on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jul 2025 10:12:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99-%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[我的折腾历程01]Pulipuli-我的第一个网站</title>
+      <link>http://localhost:1313/posts/pulipuli/</link>
+      <pubDate>Thu, 03 Jul 2025 10:12:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pulipuli/</guid>
+      <description>&lt;p&gt;*[开始]**兴趣使然。兴趣是最好的老师。***&lt;/p&gt;&#xA;&lt;p&gt;初二，疫情，很闲。&lt;/p&gt;&#xA;&lt;p&gt;为什么不拥有自己的网站呢？So cool.&lt;/p&gt;&#xA;&lt;p&gt;百度是最好的老师，他告诉我，网站需要服务器和域名。如果网站是一家饭店，域名就是饭店的名字，服务器就是租的房子，里面装的是你要提供的服务和内容。&lt;/p&gt;&#xA;&lt;p&gt;于是我要获取域名和服务器。&lt;/p&gt;&#xA;&lt;p&gt;出于对自身财力的考虑，我要尽可能地降低成本，最好是免费的。&lt;/p&gt;&#xA;&lt;p&gt;1.域名：&lt;/p&gt;&#xA;&lt;p&gt;在腾讯云，阿里云（万网）等服务提供商，我可以便捷地了解域名的价格和购买。我发现不同的网站后缀价格不一样：.cn/.com/.net等常见后缀通常很贵，而.site/.io/.xyz/.club等不太常见的便宜，我自然是选择后者 。&lt;/p&gt;&#xA;&lt;p&gt;![](/wp-content/uploads/2025/07/image.png)&lt;/p&gt;&#xA;&lt;p&gt;短的域名贵，长的便宜，可以是英文，可以是数字，或是两者掺杂，甚至可以是中文(这是真的，但我不推荐使用)。我对域名有两个需求：1.便宜 2.方便记忆，朗朗上口。于是最终域名定下来了：***pulipuli.site***(现已失效)&lt;/p&gt;&#xA;&lt;p&gt;2.服务器：&lt;/p&gt;&#xA;&lt;p&gt;有个东西叫“轻量公益服务器”，特点是免费（或者一分，一毛）、性能差、配置不方便。但迫于财力，我选择了它，用于实验性地网站建设，现在看其实意义不大（见后文）。&lt;/p&gt;&#xA;&lt;p&gt;3.“WC,事情没这么简单！！！”&lt;/p&gt;&#xA;&lt;p&gt;入了坑，就有了浸没成本，就很难再放弃。发现网站建设远不止域名和服务器。什么是DNS,SSL,CDN?Nginx和Php又是什么?什么是数据库?静态页面又是什么?伪静态页面又是什么?页面缓存又是什么?什么是前端,什么是后端?SQL又是什么?这些东西,我现在仍然是一知半解.但总体来看,初步开始时不用太过于纠结,就好比司机会开车,不一定要了解发动机和变速器的构造.&lt;/p&gt;&#xA;&lt;p&gt;4.网站的编写&amp;ndash;自学HTML&lt;/p&gt;&#xA;&lt;p&gt;也许你留意过浏览器的一个功能&amp;quot;查看网页源代码&amp;quot;,我经常进入到这个界面,或许是为了突破百*文库的复制限制,或许是为了下载视频.我们徒手编写网页,要写的就是这样一个&amp;quot;网页源代码&amp;quot;.网页源代码是用的HTML,自然要学习它.百度搜索,发现很多在线自学网站,一边学习,一边实操.经过两天的修修补补,网页算是有了雏形.&lt;/p&gt;&#xA;&lt;p&gt;![](/wp-content/uploads/2025/07/image-1-1024x517.png)&lt;/p&gt;&#xA;&lt;p&gt;**在QQ空间珍贵的留档:pulipuli.site主页源码*(现已失效)*&lt;/p&gt;&#xA;&lt;p&gt;5.我滴任务完成了&lt;/p&gt;&#xA;&lt;p&gt;因为是简单的网站,把编辑好的HTML文件上传到服务器里,在腾讯云附赠的DNSpod里设置好解析,一切就结束了.我兴致勃勃地向同学们分享我的网站,看着自己的网站出现在别人的屏幕上,彼时的喜悦难以言说.&lt;/p&gt;&#xA;&lt;p&gt;6.没有未来&lt;/p&gt;&#xA;&lt;p&gt;初步的建设完成了,能达到的水平仅仅是一个小型的私人朋友圈.我想让网站有一点用处,于是在网上找到了一些有意思的网页,并直接照搬到了自己的网站上.比如流星雨,随机抽签(这个还被初中班主任拿来决定值日生),网站导航等.&lt;/p&gt;&#xA;&lt;p&gt;但是然后呢?域名和服务器我只买了一年,域名第二年要六十多,服务器由于是公益的只能用一年,找别的服务器还要推倒重来.在财力精力和学业的影响之下,我的第一个网站消失了,腾讯云不断的发短信,打电话提醒我续费,从到期一个月前到保留期,赎回期.我见证了我第一个网站的消逝.&lt;/p&gt;&#xA;&lt;p&gt;7.日后谈&lt;/p&gt;&#xA;&lt;p&gt;当时最让我头疼的是备案.域名的备案好说,是在腾讯云备案.让我头疼的是ICP备案.根据规定,凡是服务器在中国境内的,必须进行ICP备案,它由省级相关工作部门进行,并且相对严格.彼时我还未成年,备案不成功,不得已换到香港服务器,耗费了一些经历.现在的这个网站(xuer.space),服务器位于新加坡,我选择这个也是出于同样的原因.&lt;/p&gt;&#xA;&lt;p&gt;不管怎么讲,那是一个快乐的日子,是除去课本之外我认为最好的学习.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

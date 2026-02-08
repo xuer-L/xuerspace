@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Literature on 我的个人博客</title>
+    <link>http://localhost:1313/categories/literature/</link>
+    <description>Recent content in Literature on 我的个人博客</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 04 Apr 2025 08:27:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/literature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>时光在父亲身上走过</title>
+      <link>http://localhost:1313/posts/dad/</link>
+      <pubDate>Fri, 04 Apr 2025 08:27:41 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dad/</guid>
+      <description>&lt;p&gt;今天，我同我的父亲和弟弟一同去吃饭，吃过饭后，我们去剪头发，我和父亲都剪了。&lt;/p&gt;
+&lt;p&gt;       那个洗头的小哥是新来的，但也来了一段时间了，我对他有些熟悉，不知道他熟悉不熟悉我。说实话，第一次见到他，着实被他吓了一跳，他手上有个花花绿绿的纹身，我相信大部分人都不会把自己的头交给这样一双手。我抱着忐忑的心躺下来，希望他能对我温柔一点。但不论怎莫说，他洗的很好——至少没有把水溅到我的眼睛里。而今天，他跟我说话了，他问我多大，上几年级等一些家常便饭，他也只是一个平平淡淡的劳动者，同我父亲一样，只是更加年轻，更加有活力。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>食簌随笔</title>
+      <link>http://localhost:1313/posts/shisuxuebi/</link>
+      <pubDate>Fri, 04 Apr 2025 08:24:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/shisuxuebi/</guid>
+      <description>&lt;p&gt;**食蔌随笔**&lt;/p&gt;
+&lt;p&gt;       昨天同家人一起出去吃饭，感慨颇多，就定下要写点什么。&lt;/p&gt;
+&lt;p&gt;       和我一起吃饭的是我妈，我弟，我姨姥，我小姨。说是小姨，其实比我小两岁；说是姨姥，其实就比我妈早了七年。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>演讲记——《一个无政府主义者的意外死亡》</title>
+      <link>http://localhost:1313/posts/aer-death/</link>
+      <pubDate>Wed, 12 Feb 2025 20:50:12 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aer-death/</guid>
+      <description>&lt;p&gt;![《一个无政府主义者的意外死亡》](/wp-content/uploads/2025/02/屏幕截图-2025-02-12-170719-1024x406.png)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

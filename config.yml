@@ -1,0 +1,60 @@
+baseURL: 'https://example.com'  # 以后部署时再改这个
+title: '我的个人博客'
+pagination:
+  pagerSize: 5
+theme: PaperMod
+languageCode: 'zh'
+DefaultContentLanguage: 'zh'
+hasCJKLanguage: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: '我的个人博客'
+  description: '这是我的新家'
+  author: 'Me'
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  UseHugoToc: true
+  
+  # 评论系统先关掉，以后再加
+  comments: false 
+  
+  profileMode:
+    enabled: true
+    title: 欢迎来到我的博客
+    subtitle: '即使服务器过期，文字依然永存'
+    buttons:
+      - name: 文章列表
+        url: posts
+      - name: 标签
+        url: tags
+
+menu:
+  main:
+    - identifier: '首页'
+      name: '首页'
+      url: /
+      weight: 1
+    - identifier: '文章'
+      name: '文章'
+      url: /posts/
+      weight: 10
+    - identifier: '标签'
+      name: '标签'
+      url: /tags/
+      weight: 20
