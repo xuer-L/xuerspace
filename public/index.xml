@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>我的个人博客</title>
+    <title>Xuer`Space</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 我的个人博客</description>
+    <description>Recent content on Xuer`Space</description>
+    <image>
+      <title>Xuer`Space</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 11 Oct 2025 19:06:31 +0000</lastBuildDate>

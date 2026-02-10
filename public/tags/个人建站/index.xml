@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>个人建站 on 我的个人博客</title>
+    <title>个人建站 on Xuer`Space</title>
     <link>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E5%BB%BA%E7%AB%99/</link>
-    <description>Recent content in 个人建站 on 我的个人博客</description>
+    <description>Recent content in 个人建站 on Xuer`Space</description>
+    <image>
+      <title>Xuer`Space</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 03 Jul 2025 10:12:01 +0000</lastBuildDate>
@@ -13,7 +18,7 @@
       <link>http://localhost:1313/posts/pulipuli/</link>
       <pubDate>Thu, 03 Jul 2025 10:12:01 +0000</pubDate>
       <guid>http://localhost:1313/posts/pulipuli/</guid>
-      <description>&lt;p&gt;*[开始]**兴趣使然。兴趣是最好的老师。***&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;[开始]&lt;strong&gt;兴趣使然。兴趣是最好的老师。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;初二，疫情，很闲。&lt;/p&gt;
 &lt;p&gt;为什么不拥有自己的网站呢？So cool.&lt;/p&gt;
 &lt;p&gt;百度是最好的老师，他告诉我，网站需要服务器和域名。如果网站是一家饭店，域名就是饭店的名字，服务器就是租的房子，里面装的是你要提供的服务和内容。&lt;/p&gt;</description>

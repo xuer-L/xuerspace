@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Literature on 我的个人博客</title>
+    <title>Literature on Xuer`Space</title>
     <link>http://localhost:1313/categories/literature/</link>
-    <description>Recent content in Literature on 我的个人博客</description>
+    <description>Recent content in Literature on Xuer`Space</description>
+    <image>
+      <title>Xuer`Space</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 04 Apr 2025 08:27:41 +0000</lastBuildDate>
@@ -21,7 +26,7 @@
       <link>http://localhost:1313/posts/shisuxuebi/</link>
       <pubDate>Fri, 04 Apr 2025 08:24:11 +0000</pubDate>
       <guid>http://localhost:1313/posts/shisuxuebi/</guid>
-      <description>&lt;p&gt;**食蔌随笔**&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;食蔌随笔&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;       昨天同家人一起出去吃饭，感慨颇多，就定下要写点什么。&lt;/p&gt;
 &lt;p&gt;       和我一起吃饭的是我妈，我弟，我姨姥，我小姨。说是小姨，其实比我小两岁；说是姨姥，其实就比我妈早了七年。&lt;/p&gt;</description>
     </item>
@@ -30,7 +35,14 @@
       <link>http://localhost:1313/posts/aer-death/</link>
       <pubDate>Wed, 12 Feb 2025 20:50:12 +0000</pubDate>
       <guid>http://localhost:1313/posts/aer-death/</guid>
-      <description>&lt;p&gt;![《一个无政府主义者的意外死亡》](/wp-content/uploads/2025/02/屏幕截图-2025-02-12-170719-1024x406.png)&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;《一个无政府主义者的意外死亡》&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/wp-content/uploads/2025/02/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-2025-02-12-170719-1024x406.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PPT节选&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;演讲时间：2025 .1.X&lt;/p&gt;
+&lt;p&gt;演讲地点：8班&lt;/p&gt;
+&lt;p&gt;演讲时：0.5h&lt;/p&gt;
+&lt;p&gt;演讲辅稿：&lt;/p&gt;
+&lt;p&gt;Xuer的一些感想：&lt;/p&gt;
+&lt;p&gt;          上了高三，田老师让我们搞课前演讲，我感到很突然。一是因为高一高二我们语文老师没有搞过，我只听说有些班有（ps：其实我们高一的老师弄过，但是第一个演讲的同学愣是讲量子力学讲了半节课，我猜老师有点生气）。二是因为高三学习紧张，老师能抽出时间给我们课外拓展，在应试之外能有这样的拓展，我感到很意外（ps：老师说有一年她学生的演讲押中了高考，所以还是有一定的应试成分在这里面，不过搞演讲的优点本来就是多元的）。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
