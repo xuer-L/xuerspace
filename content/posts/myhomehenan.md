@@ -57,5 +57,4 @@ tags:
 
 *本来是想参加学校书信比赛的，结果发现自己没写成书信形式。*
 *同步发送在微信公众号“**离子旋**”，欢迎关注*
-[https://mp.weixin.qq.com/s/OktpUnefyVmsRAU0Yp1fJQ](公众号链接)
-
+[公众号文章链接](https://mp.weixin.qq.com/s/OktpUnefyVmsRAU0Yp1fJQ)
